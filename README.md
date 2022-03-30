@@ -20,8 +20,7 @@
 </p>
 
 # Contact
-<p>
-  <a href="mailto:kypss50102@gmail.com">Email</a>
-  <a href="https://www.facebook.com/benben.latte/">Facebook</a>
-  <a href="https://www.instagram.com/ben_0103_/">Instagram</a>
-</p>
+
+<p>  <a href="mailto:kypss50102@gmail.com">Email</a></p>
+<p>  <a href="https://www.facebook.com/benben.latte/">Facebook</a></p>
+<p>  <a href="https://www.instagram.com/ben_0103_/">Instagram</a></p>
