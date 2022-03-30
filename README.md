@@ -21,6 +21,6 @@
 
 # Contact
 
-<p>  <a href="mailto:kypss50102@gmail.com">Email</a></p>
-<p>  <a href="https://www.facebook.com/benben.latte/">Facebook</a></p>
-<p>  <a href="https://www.instagram.com/ben_0103_/">Instagram</a></p>
+<a href="mailto:kypss50102@gmail.com">Email</a></Br>
+<a href="https://www.facebook.com/benben.latte/">Facebook</a></Br>
+<a href="https://www.instagram.com/ben_0103_/">Instagram</a></Br>
