@@ -1,9 +1,9 @@
-# Hey
+# Welcome!
+
 - 🌱 I’m currently a CS Student from Taiwan
-- 📎 Now studying in National Central University 
+- 📎 Now studying in National Central University
 
-## 
-
+##
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
