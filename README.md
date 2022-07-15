@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)](https://kypkk.io)
+[![MasterHead](https://i.imgur.com/bHA8KE7.gif)](https://kypkk.io)
 
 <h1 align="center">Hi 👋, I'm kypkk</h1>
 <h3 align="center">A CS Student from Taiwan</h3>
