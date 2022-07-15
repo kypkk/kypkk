@@ -1,8 +1,9 @@
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)](https://kypkk.io)
+
 <h1 align="center">Hi 👋, I'm kypkk</h1>
 <h3 align="center">A CS Student from Taiwan</h3>
 <img
-  src="https://dribbble.com/shots/16762086-Programmer-character-animation/attachments/11810738?mode=media"
-  alt=""
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kypkk&label=Profile%20views&color=0e75b6&style=flat" alt="kypkk" /> </p>
