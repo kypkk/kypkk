@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/bHA8KE7.gif)](https://kypkk.io)
+[![MasterHead](https://quixy.com/wp-content/uploads/2020/12/GIFing-you-an-Insight-into-No-Code.pnggit)](https://kypkk.io)
 
 <h1 align="center">Hi 👋, I'm kypkk</h1>
 <h3 align="center">A CS Student from Taiwan</h3>
