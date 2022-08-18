@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm kypkk</h1>
-<h3 align="center">A CS Student from Taiwan</h3>
+<h1 align="left">Hi 👋, I'm kypkk</h1>
+<h3 align="left">A CS Student from Taiwan</h3>
 <img
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
 />
