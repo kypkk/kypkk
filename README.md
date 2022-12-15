@@ -6,13 +6,13 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kypkk&label=Profile%20views&color=0e75b6&style=flat" alt="kypkk" /> </p>
 
-- 🔭 I’m currently working on **ParaviewWeb App**
+- 🔭 I’m currently working on **LOTS OF THINGS🥲**
 
-- 🌱 I’m currently learning **Unity engine**
+- 🌱 I’m currently learning **Computer Science** at **National Central University**
 
 - 📫 How to reach me **kypss50102@gmail.com**
 
-- ⚡ Fun fact **I start learning CS since 2021 Sep**
+- ⚡ Fun fact **I started coding since 2021 Sep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
