@@ -10,7 +10,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 - 🌱 I’m currently learning **Computer Science at National Central University**
 
-- 📝 I regularly write articles on [https://kypkk.medium.com](https://kypkk.medium.com)
+- 📝 I regularly write articles on [Medium](https://kypkk.medium.com)
 
 - 📫 How to reach me **kypss50102@gmail.com**
 
