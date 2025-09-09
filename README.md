@@ -8,11 +8,9 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 - 🔭 I’m currently working on **LOTS OF THINGS**
 
-- 🌱 I’m currently learning **Computer Science at National Central University**
+- 🌱 I’m a Master's Student in **Computer Science at Rice University**
 
-- 📝 I regularly write articles on [Medium](https://kypkk.medium.com)
-
-- 📫 How to reach me **kypss50102@gmail.com**
+- 📫 How to reach me [kp78@rice.edu](mailto:kp78@rice.edu)
 
 - ⚡ Fun fact **I love Strawberries but hate Strawberry lollipops**
 
